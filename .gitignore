@@ -1,0 +1,10 @@
+# Binaries
+*.exe
+*.out
+/bin/
+
+# GoLand
+.idea/
+
+# Env files
+.env
