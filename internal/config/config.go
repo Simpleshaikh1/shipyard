@@ -5,7 +5,7 @@ package config
 import "os"
 
 type Config struct {
-	Addr     string // where the HTTP server listens, e.g. ":8080"
+	Addr     string // where the HTTP server listens, ":8080"
 	LogLevel string // debug | info | warn | error
 }
 
