@@ -1,5 +1,5 @@
 // Package jobs holds the Job model and the Store interface.
-// The API only talks to the interface, so in Week 2 we can swap the
+// The API only talks to the interface, todo -  swap the
 // in-memory store for Postgres without touching the handlers.
 package jobs
 
